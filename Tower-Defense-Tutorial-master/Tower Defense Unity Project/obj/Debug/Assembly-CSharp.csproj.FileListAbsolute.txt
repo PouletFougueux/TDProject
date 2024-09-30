@@ -1,0 +1,6 @@
+D:\ENSC 1A\PROJET INFO\Tower-Defense-Tutorial-master\Tower Defense Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+D:\ENSC 1A\PROJET INFO\Tower-Defense-Tutorial-master\Tower Defense Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\ENSC 1A\PROJET INFO\Tower-Defense-Tutorial-master\Tower Defense Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\ENSC 1A\PROJET INFO\Tower-Defense-Tutorial-master\Tower Defense Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\ENSC 1A\PROJET INFO\Tower-Defense-Tutorial-master\Tower Defense Unity Project\obj\Debug\Assembly-CSharp.dll
+D:\ENSC 1A\PROJET INFO\Tower-Defense-Tutorial-master\Tower Defense Unity Project\obj\Debug\Assembly-CSharp.pdb
